@@ -1,10 +1,10 @@
-Take It [Fixed] — Fork
+# Take It [Fixed] — Fork
 
 A fixed and extended unofficial fork of Take It for Minecraft Forge 1.20.1.
 
 «You can now customize the keybind used for item pickup.»
 
-About
+## About
 
 This is an unofficial fork of Take It, created primarily for use in modpacks.
 
@@ -21,7 +21,7 @@ https://github.com/cutexxgirl/Take-It
 
 ---
 
-Changes from Take It
+## Changes from Take It
 
 🎮 Custom Item Pickup Keybind
 
@@ -87,10 +87,13 @@ config/takeit-common.toml
 Available Options
 
 enableMod = true
+
 enableFullMessage = true
 
 radiusX = 2
+
 radiusY = 2
+
 radiusZ = 2
 
 "enableMod"
