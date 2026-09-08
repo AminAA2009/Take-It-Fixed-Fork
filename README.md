@@ -29,7 +29,7 @@ Added a dedicated keybind for item pickup.
 
 The keybind can be changed from:
 
-Minecraft → Options → Controls
+**Minecraft** → **Options** → **Controls**
 
 You are no longer restricted to the original keybind.
 
@@ -76,9 +76,7 @@ This fork is intended to be compatible with modpacks using Minecraft Forge 1.20.
 
 ### Configuration
 
-The mod configuration is located in:
-
-config/takeit-common.toml
+The mod configuration is located in:`config/takeit-common.toml`
 
 Available Options
 
@@ -132,25 +130,25 @@ Build
 
 Clone the repository:
 
-git clone https://github.com/AminAA2009/Take-It-Fixed-Fork.git
+`git clone https://github.com/AminAA2009/Take-It-Fixed-Fork.git`
 
 Enter the project directory:
 
-cd Take-It-Fixed-Fork
+`cd Take-It-Fixed-Fork`
 
 Build the mod:
 
 Windows
 
-gradlew.bat build
+`gradlew.bat build`
 
 Linux / macOS
 
-./gradlew build
+`./gradlew build`
 
 After a successful build, the compiled ".jar" file will be located in:
 
-build/libs/
+`build/libs/`
 
 ---
 
@@ -168,11 +166,11 @@ You do not need IntelliJ IDEA specifically to build the project.
 
 For IntelliJ run configurations:
 
-gradlew.bat genIntellijRuns
+`gradlew.bat genIntellijRuns`
 
 For Eclipse:
 
-gradlew.bat genEclipseRuns
+`gradlew.bat genEclipseRuns`
 
 ---
 
