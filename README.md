@@ -65,9 +65,9 @@ Various fixes and improvements to the pickup logic, including fixes for item dup
 
 ### Installation
 
-1. Download the latest ".jar" file from the Releases section.
+1. Download from [Modrinth](https://modrinth.com/mod/take-it-fixed-fork) or latest ".jar" file from the [Releases](https://github.com/AminAA2009/Take-It-Fixed-Fork/releases) section.
 2. Make sure you have Minecraft Forge 1.20.1 installed.
-3. Place the downloaded ".jar" file into your Minecraft "mods" folder.
+3. Place the downloaded `.jar` file into your Minecraft `mods` folder.
 4. Launch Minecraft.
 
 This fork is intended to be compatible with modpacks using Minecraft Forge 1.20.1.
