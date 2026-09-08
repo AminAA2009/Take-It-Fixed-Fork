@@ -37,10 +37,6 @@ You are no longer restricted to the original keybind.
 
 Hold the item pickup key to continuously attempt to pick up nearby items.
 
-🎯 Single-Item Pickup
-
-Added a separate keybind for picking up a specific item you're looking at.
-
 🚫 Inventory Full Message
 
 When an item cannot be picked up because there is not enough inventory space, the player can receive:
