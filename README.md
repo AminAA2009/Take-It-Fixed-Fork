@@ -55,7 +55,7 @@ Various fixes and improvements to the pickup logic, including fixes for item dup
 
 ---
 
-Requirements
+### Requirements
 
 - Minecraft: 1.20.1
 - Mod Loader: Minecraft Forge
@@ -63,7 +63,7 @@ Requirements
 
 ---
 
-Installation
+### Installation
 
 1. Download the latest ".jar" file from the Releases section.
 2. Make sure you have Minecraft Forge 1.20.1 installed.
@@ -74,7 +74,7 @@ This fork is intended to be compatible with modpacks using Minecraft Forge 1.20.
 
 ---
 
-Configuration
+### Configuration
 
 The mod configuration is located in:
 
@@ -118,7 +118,7 @@ radiusZ = 2
 
 ---
 
-Building from Source
+### Building from Source
 
 This project uses the standard Minecraft Forge development environment.
 
@@ -154,7 +154,7 @@ build/libs/
 
 ---
 
-Development Environment
+### Development Environment
 
 You can use any IDE or editor you prefer.
 
@@ -176,7 +176,7 @@ gradlew.bat genEclipseRuns
 
 ---
 
-Credits
+### Credits
 
 Original Project
 
@@ -185,6 +185,16 @@ Take It by cutexxgirl
 Original repository:
 
 https://github.com/cutexxgirl/Take-It
+
+Additional Credits
+
+Maxscout
+
+Original repository:
+
+https://github.com/Maxscout/Take-It
+
+Credit for the single-item pickup implementation used in this fork.
 
 Most of the original code and functionality comes from the original project.
 
@@ -196,7 +206,7 @@ This fork contains additional features, fixes, and modifications made independen
 
 ---
 
-License
+### License
 
 This project is licensed under the MIT License, in accordance with the original Take It project.
 
@@ -206,7 +216,7 @@ See the ""LICENSE"" (LICENSE) file for the full license text.
 
 ---
 
-Disclaimer
+### Disclaimer
 
 Take It [Fixed] — Fork is an unofficial community modification.
 
