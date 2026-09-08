@@ -115,7 +115,9 @@ Pickup Radius
 The pickup radius can be configured independently along the X, Y, and Z axes.
 
 radiusX = 2
+
 radiusY = 2
+
 radiusZ = 2
 
 ---
